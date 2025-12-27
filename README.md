@@ -1,6 +1,5 @@
 # 대규모 데이터를 이용해 모델을 연합학습하는 방법 연구
-# Large-Scale-Data-FL (Year 2)
-
+## Large-Scale-Data-FL (Year 2)
 
 ## Setup and Run Instructions
 
