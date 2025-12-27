@@ -12,7 +12,7 @@ do
     do
       for kd_temp in 1.0 # 2.0 1.0 3.0
       do
-        for kd_lambda in 0.3 # 0.1 # 0.01 0.001
+        for kd_lambda in 0.1 # 0.3 0.01 0.001
         do
           for seed in 0 1 2
             do
